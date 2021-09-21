@@ -1,0 +1,49 @@
+table {
+    margin: auto;
+    width: 1000px;
+    color: gray;
+    border-collapse: collapse
+}
+
+tr {
+    text-align: center;
+    border-top: 0.5px solid lightgray;
+    border-bottom: 0.5px solid lightgray;
+
+}
+
+a {
+    color: gray;
+    text-decoration: none
+}
+
+pre {
+    font-size: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: lightgreen;
+    margin-top: 50px;
+    font-size: 70px;
+}
+
+.album {
+    width: 58px;
+    height: 58px;
+}
+
+.heart {
+    height: 13px;
+}
+
+.albumName {
+    font-size: 13px;
+    color: #969696;
+    ;
+}
+
+.title {
+    height: 70px;
+    font-size: 14px;
+}
