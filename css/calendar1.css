@@ -1,0 +1,23 @@
+table{
+    margin:auto;
+}
+td{
+    width:100px;
+    height:80px;
+    color:white;
+    font-weight:bolder;
+    border:1px solid gray;
+    text-align:center;
+    
+}
+h1{
+    margin-top: 100px;
+    text-align:center;
+    color:white;
+}
+body{
+    background-image: url(../image/cup-of-coffee-1280537_1920.jpg);
+}
+.comming{
+    background-color:lightblue;
+}
